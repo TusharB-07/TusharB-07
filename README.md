@@ -9,7 +9,7 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TusharB-07&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=30363d&title_color=facc15&text_color=e6edf3&icon_color=facc15" alt="TusharB-07's GitHub Stats" width="49%" />
+  <img src="https://www.gitskins.com/api/section/stats?username=tusharb-07&theme=github-dark&mode=dark" alt="tusharb-07's GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=TusharB-07&background=0d1117&border=30363d&stroke=30363d&ring=facc15&fire=facc15&currStreakLabel=facc15&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=8b949e&dates=8b949e&cache_seconds=86400" alt="TusharB-07's GitHub Streak" width="49%" />
 </p>
 
