@@ -9,8 +9,8 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=tusharb-07&theme=github-dark&mode=dark" alt="tusharb-07's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=tusharb-07&theme=nightowl&hide_border=true&cache_seconds=86400" alt="tusharb-07's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TusharB-07&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=30363d&title_color=facc15&text_color=e6edf3&icon_color=facc15" alt="TusharB-07's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=TusharB-07&background=0d1117&border=30363d&stroke=30363d&ring=facc15&fire=facc15&currStreakLabel=facc15&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=8b949e&dates=8b949e&cache_seconds=86400" alt="TusharB-07's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
@@ -53,34 +53,10 @@
 ## 🏙️ The City I Built This Year
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=tusharb-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180639584%3Fu%3D85f9892909b438b9462912cea4a01f8ed5ed514a%26v%3D4" alt="tusharb-07 hero visual" />
-</p>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/city?username=tusharb-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180639584%3Fu%3D85f9892909b438b9462912cea4a01f8ed5ed514a%26v%3D4" alt="tusharb-07 city visual" />
+  <img src="https://www.gitskins.com/api/section/city?username=tusharb-07&theme=github-dark&mode=dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180639584%3Fu%3D85f9892909b438b9462912cea4a01f8ed5ed514a%26v%3D4" alt="TusharB-07's contribution city" />
 </p>
 
 <p align="center"><sub>Every building is a day; taller means more contributions.</sub></p>
-
-### 🧮 Population
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=tusharb-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180639584%3Fu%3D85f9892909b438b9462912cea4a01f8ed5ed514a%26v%3D4" alt="tusharb-07 stats visual" />
-</p>
-
-### 🏛️ Landmarks
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=tusharb-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180639584%3Fu%3D85f9892909b438b9462912cea4a01f8ed5ed514a%26v%3D4" alt="tusharb-07 projects visual" />
-</p>
-
-### 🚪 Visit
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=tusharb-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180639584%3Fu%3D85f9892909b438b9462912cea4a01f8ed5ed514a%26v%3D4" alt="tusharb-07 social visual" />
-</p>
-
-<p align="center"><a href="https://github.com/TusharB-07">GitHub</a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=tusharb-07&theme=github-dark&mode=dark&style=snake" />
